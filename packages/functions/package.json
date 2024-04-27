@@ -1,0 +1,12 @@
+{
+	"name": "@module/functions",
+	"type": "module",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"sst": "ion"
+	},
+	"devDependencies": {
+		"@cloudflare/workers-types": "^4.20240423.0"
+	}
+}
